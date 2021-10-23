@@ -1,3 +1,4 @@
 print("hello world")
 #Hi Ajit hello
-print("ajit ")
+#Hi
+print("ajit")
